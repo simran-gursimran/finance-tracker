@@ -7,12 +7,12 @@ import { getFirestore, doc, setDoc } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.FIRBASE_API_KEY,
-  authDomain: process.env.FIRBASE_AUTH_DOMAIN,
-  projectId: process.env.FIRBASE_PROJECT_ID,
-  storageBucket: process.env.FIRBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.FIRBASE_MESSAGING_SENDER_ID,
-  appId: process.env.FIRBASE_APP_ID,
+  apiKey: "AIzaSyCeJntn40p7yvp1d77raiMW3S_1Mw1dN7Y",
+  authDomain: "finance-tracker-app-1128c.firebaseapp.com",
+  projectId: "finance-tracker-app-1128c",
+  storageBucket: "finance-tracker-app-1128c.appspot.com",
+  messagingSenderId: "90641179227",
+  appId: "1:90641179227:web:3d4a0e6af98ed3bce7d57e",
 };
 
 // Initialize Firebase
